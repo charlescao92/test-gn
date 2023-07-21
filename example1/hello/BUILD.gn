@@ -1,4 +1,4 @@
-executable("hello_world") {
+executable("hello") {
   sources = [
     "hello_world.cc",
   ]

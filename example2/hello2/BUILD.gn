@@ -1,0 +1,5 @@
+executable("hello2") {
+  sources = [
+    "hello_world.cc",
+  ]
+}
